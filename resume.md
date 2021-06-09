@@ -58,14 +58,14 @@ disabilities) in collaboration with Kinesiology department.
 
 Education: Oregon State University
 ---------
-**MSc Robotics** (2018)
+**Masters of Science: Robotics** (2018)
 
 Advisor Dr. William Smart. Researched intelligent wheelchairs for people with extreme
 physical disabilities (ALS, Quadriplegia and SMA).
 
-**B.S. Computer Science** (2016)
+**Bachelor of Science: Computer Science** (2016)
 
-**B.S. Electrical Engineering** (2016)
+**Bachelor of Science: Electrical Engineering** (2016)
 
 Awards
 ------
