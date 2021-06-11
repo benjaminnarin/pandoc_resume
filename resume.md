@@ -6,11 +6,6 @@ Benjamin Narin
 
 Experience
 ---------
-**Video Proceedings Co-Chair**, CoRL 2020 (Nov 2020)
-
-- Wrote video standards and coordinated submissions.
-- Wrote scripts to process videos and generate Youtube descriptions.
-  
 **SWE/Roboticist**, AutoRoboto at Google Research (January 2019 - March 2021)
 
 - Designed and developed robotics infrastructure in C++ and Python on Linux.
@@ -18,6 +13,11 @@ Experience
 - Provided operational support to researchers on a variety of research projects.
 - Worked closely with research teams to replace custom infrastructure with
 standardized infrastructure.
+
+**Video Proceedings Co-Chair**, CoRL 2020 (Nov 2020)
+
+- Wrote video standards and coordinated submissions.
+- Wrote scripts to process videos and generate Youtube descriptions.
 
 **Graduate Research Assistant**, Oregon State Personal Robotics Group (September 2016 - November 2018)
 
