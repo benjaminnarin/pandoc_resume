@@ -2,7 +2,7 @@ Benjamin Narin
 ======
 
 <!-- #### Roboticist with SWE and Electrical Engineering Experience.  -->
-###### [ [benjaminnarin.com](http://benjmainnarin.com) ] . [ [linkedin.com/in/benjaminnarin](www.linkedin.com/in/benjaminnarin) ] . [ [contact@benjaminnarin.com](mailto:contact@benjaminnarin.com) ]
+###### [ [benjaminnarin.com](http://benjaminnarin.com) ] . [ [linkedin.com/in/benjaminnarin](www.linkedin.com/in/benjaminnarin) ] . [ [contact@benjaminnarin.com](mailto:contact@benjaminnarin.com) ]
 
 Experience
 ---------
@@ -22,13 +22,13 @@ standardized infrastructure, taking advantage of larger tooling efforts.
 **Graduate Research Assistant**, Oregon State Personal Robotics Group (September 2016 - November 2018)
 
 - Conducted research into self-driving wheelchairs using real world constraints such as cost and usability (keeping the chair on the wheelchair), something that was rare at the time. 
-- Demoed the robot in Dubai for an international competition and Stockholm to with the wheelchair manufacturers. 
+- Demoed the robot in Dubai for an international competition and in Stockholm to the wheelchair manufacturers. 
 - Improved uptimes and reliability of the hardware by improving the interfaces written in *C++*, *Python* and *Robot Operating System (ROS)*. 
-- Redesigned the on board network reducing cost, complexity, bulkiness while adding wireless connectivity for debugging and remote access.
-- Designed and developed a wheelchair serial driver in *C++* and *ROS* removing a Raspberry Pi and custom PCB. 
+- Redesigned the on board network, reducing cost, complexity and bulkiness while adding wireless connectivity for debugging and remote access.
+- Developed a wheelchair serial driver in *C++* and *ROS* removing the need for a Raspberry Pi and custom PCB. 
 - The improvements in the networking hardware and implementation of the serial driver greatly reduced the system footprint and brought installation time down from 45 minutes to 5 minutes. 
 - Added logging to Go Baby Go Project (low-cost mobility platforms for infants with
-disabilities) in collaboration with Kinesiology department unblocking data collection for on going research.
+disabilities) in collaboration with the Kinesiology department, unblocking data collection for on going research.
 
 **Graduate Teaching Assistant**, Senior Level Instrumentation and Measurements (Fall 2017, Winter 2018)
 
@@ -51,7 +51,7 @@ disabilities) in collaboration with Kinesiology department unblocking data colle
 
 **Electrical Team Lead**, Oregon State Mars Rover Team (October 2011 - July 2013)
 
-- Lead a team of four to design and fabricate the electronics and RF system for the 2011-2013 OSU Mars Rover.
+- Led a team of four to design and fabricate the electronics and RF system for the 2011-2013 OSU Mars Rover.
 
 Education: Oregon State University
 ---------
