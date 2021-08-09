@@ -2,7 +2,7 @@ Benjamin Narin
 ======
 
 <!-- #### Roboticist with SWE and Electrical Engineering Experience.  -->
-###### [ [benjaminnarin.com](http://benjaminnarin.com) ] . [ [linkedin.com/in/benjaminnarin](www.linkedin.com/in/benjaminnarin) ] . [ [contact@benjaminnarin.com](mailto:contact@benjaminnarin.com) ]
+###### [ [benjaminnarin.com](https://www.benjaminnarin.com/) ] . [ [linkedin.com/in/benjaminnarin](https://www.linkedin.com/in/benjaminnarin/) ] . [ [contact@benjaminnarin.com](mailto:contact@benjaminnarin.com) ]
 
 Experience
 ---------
