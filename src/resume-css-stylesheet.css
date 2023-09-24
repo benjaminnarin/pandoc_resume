@@ -493,7 +493,7 @@ h6{
     h4,
     h5,
     h6 {
-        margin: 15px 0 2px;
+        margin: 18px 0 2px;
         padding: 0;
         font-weight: bold;
         -webkit-font-smoothing: subpixel-antialiased;
@@ -507,7 +507,7 @@ h6{
     }
     
     h2 {
-        font-size: 18px;
+        font-size: 16px;
         border-bottom: 1px solid #ccc;
         color: #224E94
     }
@@ -552,6 +552,10 @@ h6{
     
     ol {
         padding-left: 30px
+    }
+
+    li {
+        text-indent: -.3em;
     }
     
     ol li ul:first-of-type {
