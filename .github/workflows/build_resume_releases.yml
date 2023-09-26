@@ -37,7 +37,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            build/bnarin_resume${{ github.ref_name }}.html
-            build/bnarin_resume${{ github.ref_name }}.pdf
+            build/bnarin_resume_${{ github.ref_name }}.html
+            build/bnarin_resume_${{ github.ref_name }}.pdf
 
   
