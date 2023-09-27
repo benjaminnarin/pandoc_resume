@@ -5,11 +5,11 @@ Benjamin Narin
 ###### [ [benjaminnarin.com](https://www.benjaminnarin.com/) ] . [ [linkedin.com/in/benjaminnarin](https://www.linkedin.com/in/benjaminnarin/) ] . [ [contact@benjaminnarin.com](mailto:contact@benjaminnarin.com) ]
 
 ## Experience ##
-### Zebra Technologies (Formally Fetch Robotics) ###
+### Zebra Technologies (Formerly Fetch Robotics) ###
 ::: TestDiv
 **Senior Robotics Engineer** (May 2022-Present)
 
- - Proposed, Designed, Implemented and Documented an overhaul to robot behavior formalizing interactions between features and complying with the R15.08 Standard.
+ - Proposed, designed, implemented and documented the robots behavior formalizing interactions between features and complying with the R15.08 standard.
  - Lead cross-functional workshops to decide a standard *C++* Networking Pattern which would leverage newly developed infrastructure (Buff and Connect) while taking into account application and security requirements.
  - Worked with Technical Project Manager and other Tech Leads to build standardized process for ticketing.
 
@@ -17,10 +17,9 @@ Benjamin Narin
 
  - Supported and developed features for internal core cloud robotics platform.
  - Documented common tasks and tribal knowledge.
-
 :::
 
-### AutoRoboto at Deepmind (Formally Google Brain) ###
+### AutoRoboto at Deepmind (Formerly Google Brain) ###
 ::: TestDiv
 **Research Engineer (SWE/Roboticist)** (January 2019 - March 2021)
 
@@ -30,7 +29,7 @@ Benjamin Narin
 standardized infrastructure, taking advantage of larger tooling efforts. 
 - Reviewed and contributed to 4 papers published at the Conference on Robot Learning (CoRL).
 :::
-### Conference on Renforcement Learning (CoRL) 2020 ###
+### Conference on Reinforcement Learning (CoRL) 2020 ###
 ::: TestDiv
 **Video Proceedings Co-Chair** (November 2020)
 
