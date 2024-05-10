@@ -9,13 +9,15 @@ Benjamin Narin
 ::: TestDiv
 **Senior Robotics Engineer** (May 2022-Present)
 
+ - Lead conversations and drove alignment in architecture discussions with Tech Leads and Subject Matter experts across both the robotics and cloud stacks in order to develop a proposed overhauled architecture to enable new business opportunities.
+ - Designed, Tech Lead and Managed the project for a new localization modality which required significant cross team coordination and development.
  - Proposed, designed, implemented and documented the robots behavior formalizing interactions between features and complying with the R15.08 standard.
  - Lead cross-functional workshops to decide a standard *C++* Networking Pattern which would leverage newly developed infrastructure (Buff and Connect) while taking into account application and security requirements.
- - Worked with Technical Project Manager and other Tech Leads to build standardized process for ticketing.
+ - Worked with Technical Project Managers and other Tech Leads to build standardized process for work ticketing in Jira.
 
 **Robotics Engineer** (November 2021-May 2022)
 
- - Supported and developed features for internal core cloud robotics platform.
+ - Supported and developed integral features for the core robot to cloud interface on the robot.
  - Documented common tasks and tribal knowledge.
 :::
 
@@ -46,14 +48,14 @@ standardized infrastructure, taking advantage of larger tooling efforts.
 <!-- - Demoed the self-driving wheelchair to the wheelchair manufacturer in Sweden.  -->
 <!-- - Improved uptimes and reliability of the hardware by improving the interfaces written in *C++*, *Python* and *Robot Operating System (ROS)*.  -->
 <!-- - Redesigned the onboard network, reducing cost, complexity and bulkiness while adding wireless connectivity for debugging and remote access. -->
-- Developed a wheelchair serial driver in *C++* and *ROS* removing the need for a Raspberry Pi and custom PCB. 
-- The improvements in the networking hardware and implementation of the serial driver greatly reduced the system footprint and brought installation time down from 45 minutes to 5 minutes. 
+- Developed a wheelchair serial driver in *C++* and *ROS* streamlining the hardware required to operate the system. 
+<!-- - The improvements in the networking hardware and implementation of the serial driver greatly reduced the system footprint and brought installation time down from 45 minutes to 5 minutes.  -->
 - Added logging to Go Baby Go Project (low-cost mobility platforms for infants with
 disabilities) in collaboration with the Kinesiology department, unblocking data collection for on going research.
 
 **Graduate Teaching Assistant**, Senior Level Instrumentation and Measurements, OSU (Fall 2017, Winter 2018)
 
-- Taught student labs in a one-on-one setting, as well as group settings (groups of 30). Material covered Electrical Fundamentals, Arduino Programming, and Sensor Integration. 
+- Taught group labs which covered Electrical Fundamentals, Arduino Programming, and general mechatronics. 
 <!-- - Coordinated and provided scoping and support for 38 unique group projects for a class of 126 students. -->
 
 **Undergraduate Research Assistant**, Personal Robotics Group,Oregon State University  (June 2013 - May 2016)
@@ -67,7 +69,7 @@ disabilities) in collaboration with the Kinesiology department, unblocking data 
 ::: TestDiv
 **Electrical Engineering Intern** (June 2016 - September 2016)
 
-- Redesigned and updated 14 custom PCBs in *EagleCAD* for both medical and industrial exoskeletons.
+<!-- - Redesigned and updated 14 custom PCBs in *EagleCAD* for both medical and industrial exoskeletons. -->
 - Established the workflow and standards for electrical design and validation for the company.
 <!-- - Designed, built and supported the company computer network.  -->
 :::
@@ -92,5 +94,5 @@ Education
 Awards, Papers and Acknowledgement
 ------
 - Robotics For Good Competition - Semifinalist, Dubai 2016
-- University Rover Challenge - Fourth Place
+<!-- - University Rover Challenge - Fourth Place -->
 - [Wearable computing to enable robot microinteractions (2014 RO-MAN)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.9279&rep=rep1&type=pdf)
