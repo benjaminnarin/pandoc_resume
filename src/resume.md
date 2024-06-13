@@ -9,16 +9,17 @@ Benjamin Narin
 ::: TestDiv
 **Senior Robotics Engineer** (May 2022-Present)
 
- - Lead conversations and drove alignment in architecture discussions with Tech Leads and Subject Matter experts across both the robotics and cloud stacks in order to develop a proposed overhauled architecture to enable new business opportunities.
+ - Worked closely with DevOps and Engineering Leads to design and plan developer experience/workflows in the switch from *Docker* to *Kubernetes*. 
+ - Lead conversations and drove alignment discussions with Tech Leads and Subject Matter experts across both the robotics and cloud stacks in order to develop a proposed overhauled architecture enabling new business opportunities.
  - Designed, Tech Lead and Managed the project for a new localization modality which required significant cross team coordination and development.
  - Proposed, designed, implemented and documented the robots behavior formalizing interactions between features and complying with the R15.08 standard.
- - Lead cross-functional workshops to decide a standard *C++* Networking Pattern which would leverage newly developed infrastructure (Buff and Connect) while taking into account application and security requirements.
- - Worked with Technical Project Managers and other Tech Leads to build standardized process for work ticketing in Jira.
+ - Lead cross-functional workshops to decide a standard *C++* Networking Pattern which would leverage newly developed infrastructure ( *Buff* and *Connect* ) while taking into account application and security requirements.
+ - Worked with Technical Project Managers and other Tech Leads to build standardized process for work ticketing in *Jira*.
 
 **Robotics Engineer** (November 2021-May 2022)
 
  - Supported and developed integral features for the core robot to cloud interface on the robot.
- - Documented common tasks and tribal knowledge.
+ <!-- - Documented common tasks and tribal knowledge. -->
 :::
 
 ### AutoRoboto at Deepmind (Formerly Google Brain) ###
@@ -48,7 +49,7 @@ standardized infrastructure, taking advantage of larger tooling efforts.
 <!-- - Demoed the self-driving wheelchair to the wheelchair manufacturer in Sweden.  -->
 <!-- - Improved uptimes and reliability of the hardware by improving the interfaces written in *C++*, *Python* and *Robot Operating System (ROS)*.  -->
 <!-- - Redesigned the onboard network, reducing cost, complexity and bulkiness while adding wireless connectivity for debugging and remote access. -->
-- Developed a wheelchair serial driver in *C++* and *ROS* streamlining the hardware required to operate the system. 
+- Developed a wheelchair serial driver in *C++* and *ROS 1* streamlining the hardware required to operate the system. 
 <!-- - The improvements in the networking hardware and implementation of the serial driver greatly reduced the system footprint and brought installation time down from 45 minutes to 5 minutes.  -->
 - Added logging to Go Baby Go Project (low-cost mobility platforms for infants with
 disabilities) in collaboration with the Kinesiology department, unblocking data collection for on going research.
@@ -58,7 +59,7 @@ disabilities) in collaboration with the Kinesiology department, unblocking data 
 - Taught group labs which covered Electrical Fundamentals, Arduino Programming, and general mechatronics. 
 <!-- - Coordinated and provided scoping and support for 38 unique group projects for a class of 126 students. -->
 
-**Undergraduate Research Assistant**, Personal Robotics Group,Oregon State University  (June 2013 - May 2016)
+**Undergraduate Research Assistant**, Personal Robotics Group, Oregon State University  (June 2013 - May 2016)
 
 <!-- - Initiated research and began development on a self driving wheelchair project.  -->
 - Initiated, Designed, built and evaluated several iterations of a self driving wheelchair
@@ -80,6 +81,10 @@ disabilities) in collaboration with the Kinesiology department, unblocking data 
 
 - Led a team of four to design and fabricate the electronics and RF system for the 2011-2013 OSU Mars Rover.
 ::: -->
+
+<!-- Skills
+--------
+*C++*, *Python*, *ROS1*, *Docker*, *Kubernetes*, *Linux*, *Networking*, -->
 
 Education
 ---------
