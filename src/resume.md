@@ -1,12 +1,54 @@
+---
+title: "Resume"
+---
+
+::: page
+
+::: top_header
+Header
+<!--- top_header-->
+::: 
+
+::: body_div
+
+::: sidebar
+
+::: name
 Benjamin Narin
-======
+<!--- name-->
+:::
 
-<!-- #### Roboticist with SWE and Electrical Engineering Experience.  -->
-###### [ [benjaminnarin.com](https://www.benjaminnarin.com/) ] . [ [linkedin.com/in/benjaminnarin](https://www.linkedin.com/in/benjaminnarin/) ] . [ [contact@benjaminnarin.com](mailto:contact@benjaminnarin.com) ]
+::: information
+San Jose, California
 
+- [benjaminnarin.com](https://www.benjaminnarin.com/)
+- [linkedin.com/in/benjaminnarin](https://www.linkedin.com/in/benjaminnarin/)
+- [contact@benjaminnarin.com](mailto:contact@benjaminnarin.com)
+<!--- information-->
+:::
+
+## Education
+
+
+## Skills
+
+
+## Competitions, Papers, Patents
+
+
+## Projects
+
+
+## Interests/Hobbies
+<!--- sidebar-->
+::: 
+
+::: body_text
+
+::: posting
 ## Experience ##
 ### Zebra Technologies (Formerly Fetch Robotics) ###
-::: TestDiv
+::: task_list
 **Senior Robotics Engineer** (May 2022-Present)
 
  - Worked closely with DevOps and Engineering Leads to design and plan developer experience/workflows in the switch from *Docker* to *Kubernetes*. 
@@ -20,10 +62,14 @@ Benjamin Narin
 
  - Supported and developed integral features for the core robot to cloud interface on the robot.
  <!-- - Documented common tasks and tribal knowledge. -->
+ <!--- task_list-->
 :::
+<!--- posting-->
+::: 
 
+::: posting
 ### AutoRoboto at Deepmind (Formerly Google Brain) ###
-::: TestDiv
+::: task_list
 **Research Engineer (SWE/Roboticist)** (January 2019 - March 2021)
 
 - Built custom infrastructure for 3 robotic platforms and related hardware in *C++* and *Python* on *Linux*.
@@ -31,17 +77,26 @@ Benjamin Narin
 - Lead integration to replace custom research team infrastructure with
 standardized infrastructure, taking advantage of larger tooling efforts. 
 - Reviewed and contributed to 4 papers published at the Conference on Robot Learning (CoRL).
+ <!--- task_list-->
 :::
+<!--- posting-->
+::: 
+
+::: posting
 ### Conference on Reinforcement Learning (CoRL) 2020 ###
-::: TestDiv
+::: task_list
 **Video Proceedings Co-Chair** (November 2020)
 
 - Wrote video standards and coordinated 165 submissions within a two week timeframe.
 <!-- - Automated processing of videos and generation of YouTube descriptions with *Python* scripts. -->
+<!--- task_list-->
+::: 
+<!--- posting-->
 :::
 
+::: posting
 ### Oregon State University ###
-::: TestDiv
+::: task_list
 **Graduate Research Assistant**, Personal Robotics Group, Oregon State University (September 2016 - November 2018)
 
 <!-- - Conducted research into self-driving wheelchairs using real world constraints such as cost and usability.  -->
@@ -64,40 +119,23 @@ disabilities) in collaboration with the Kinesiology department, unblocking data 
 <!-- - Initiated research and began development on a self driving wheelchair project.  -->
 - Initiated, Designed, built and evaluated several iterations of a self driving wheelchair
 <!-- - Designed, built and evaluated several iterations of a self driving wheelchair, including taking the system to Boston and Santa Cruz to work with ALS patients for real world testing. -->
+
+<!--- task_list-->
 :::
 
-### SuitX ###
-::: TestDiv
-**Electrical Engineering Intern** (June 2016 - September 2016)
-
-<!-- - Redesigned and updated 14 custom PCBs in *EagleCAD* for both medical and industrial exoskeletons. -->
-- Established the workflow and standards for electrical design and validation for the company.
-<!-- - Designed, built and supported the company computer network.  -->
+<!--- posting-->
 :::
 
-<!-- ### Oregon State Mars Rover Team ###
-::: TestDiv
-**Electrical Team Lead**, (October 2011 - July 2013)
+<!--- body_text-->
+::: 
 
-- Led a team of four to design and fabricate the electronics and RF system for the 2011-2013 OSU Mars Rover.
-::: -->
+ <!--- body_div-->
+:::
 
-<!-- Skills
---------
-*C++*, *Python*, *ROS1*, *Docker*, *Kubernetes*, *Linux*, *Networking*, -->
+::: bottom_footer
+Footer
+<!--- bottom_footer-->
+::: 
 
-Education
----------
-- **Masters of Science: Robotics**, Oregon State University, Advisor Dr. William Smart (2018)
-
-    Researched semi-autonomous wheelchairs for people with extreme physical disabilities (ALS, Quadriplegia and SMA).
-
-- **Bachelor of Science: Computer Science**, Oregon State University (2016)
-
-- **Bachelor of Science: Electrical Engineering**, Oregon State University (2016)
-
-Awards, Papers and Acknowledgement
-------
-- Robotics For Good Competition - Semifinalist, Dubai 2016
-<!-- - University Rover Challenge - Fourth Place -->
-- [Wearable computing to enable robot microinteractions (2014 RO-MAN)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.9279&rep=rep1&type=pdf)
+ <!--- page--> 
+:::
